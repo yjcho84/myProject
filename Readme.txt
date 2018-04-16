@@ -1,1 +1,1 @@
-Hi~ my first Example code to learn git
+Hi~ my second(!) Example code to learn git
